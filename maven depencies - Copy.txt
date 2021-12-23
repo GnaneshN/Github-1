@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>uk.org.retep.xmpp.protocol</groupId>
+  <artifactId>address</artifactId>
+  <version>10.6</version>
+</dependency>
